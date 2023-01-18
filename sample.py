@@ -1,1 +1,1 @@
-console.log("hello world mansi here)
+prin("hello mansi here");
